@@ -1,4 +1,4 @@
-import tf from '@tensorflow/tfjs-node';
+import tf from '@tensorflow/tfjs';
 
 
 async function trainModel(inputXs, outputYs) {
